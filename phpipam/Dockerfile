@@ -1,0 +1,1 @@
+FROM phpipam/phpipam-www:latest
